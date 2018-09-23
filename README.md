@@ -1,5 +1,5 @@
 # MachineLearningCourse
 repository for homework
-## В качестве датасета взял [Bank Marketing Data Set ](https://archive.ics.uci.edu/ml/datasets/Bank%20Marketing) или [Amazon.com - Employee Access Challenge](https://www.kaggle.com/c/amazon-employee-access-challenge/data)
+## В качестве датасета [Buzz in social media Data Set](https://archive.ics.uci.edu/ml/datasets/Buzz+in+social+media+)
 
 - [Домашняя работа №1]()
