@@ -2,8 +2,12 @@
 ##  [журнал успеваемости](https://docs.google.com/spreadsheets/d/1GKDcJyStZj4zZM7O0GC_9jKip7KIW-pG5yqUNYG5Lzo/edit#gid=0)
 Репозиторий для домашних работ по курсу "Машинное обучение".
 ## В качестве датасета [Buzz in social media Data Set](https://archive.ics.uci.edu/ml/datasets/Buzz+in+social+media+)
+http://www.uic.unn.ru/~zny/ml/Seminars/ml_problems.pdf
+http://www.uic.unn.ru/~zny/ml/Course/ml_pres.pdf
 
-- [Домашняя работа №1](https://github.com/arechesk/MachineLearningCourse/blob/master/Д.З%201/HW1.ipynb)
+
+- [Домашняя работа №1] Создать репозиторий. Выбрать задачу (датасет). Проделать с ней все, что мы делали с данными adult
+
 
 - Обучить на ваших данных полносвязную (неглубокую) нейронную сеть. В качестве образца см. 17-1. MLP - Распознавание рукописных цифр.ipynb в репозитории https://github.com/NikolaiZolotykh/MachineLearningCourse. Попробуйте 1-2 скрытых слоя. Постройте графики зависимости ошибки на обучающей выборке и тестовой выборках от параметра alpha и от количества нейронов. Наблюдается ли переобучение/недообучение? Сделайте выводы. Все нужно продолжать в том же ноутбуке, в котором вы делали задание №1.
 
