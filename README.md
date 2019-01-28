@@ -2,7 +2,7 @@
 ##  [журнал успеваемости](https://docs.google.com/spreadsheets/d/1GKDcJyStZj4zZM7O0GC_9jKip7KIW-pG5yqUNYG5Lzo/edit#gid=0)
 Репозиторий для домашних работ по курсу "Машинное обучение".
 ## В качестве датасета [Buzz in social media Data Set](https://archive.ics.uci.edu/ml/datasets/Buzz+in+social+media+)
-http://www.uic.unn.ru/~zny/ml/Seminars/ml_problems.pdf
+http://www.uic.unn.ru/~zny/ml/Course/ml_problems.pdf
 http://www.uic.unn.ru/~zny/ml/Course/ml_pres.pdf
 
 
